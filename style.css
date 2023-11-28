@@ -1,0 +1,144 @@
+/*pablic probperities*/
+/* body{
+    width: 100%;
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+*{
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+ */
+
+.navbar {
+    overflow: hidden;
+    background-color: #ffffff;
+    position: relative;
+  }
+  .navbar a {
+    float: left;
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .navbar img {
+    float: left;
+/*     padding: 10px;
+ */    height: 50px;
+  }
+  .navbar .login {
+    float: right;
+  }
+  .navbar .login button {
+    background-color: #2F80ED;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 14px 20px;
+    font-size: 17px;
+    border-radius: 6px;
+  }
+  .navbar .login button:hover {
+    opacity: 0.8;
+  }
+  @media screen and (max-width: 600px) {
+    .navbar a, .navbar .login {
+      float: none;
+      display: block;
+    }
+    .navbar img {
+      float: none;
+      display: block;
+      margin: auto;
+      height: 50px;
+    }
+  }
+
+
+  .logo-name{
+    margin-right: 30px;
+  }
+
+  button a .logIn{
+    color: white;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+nav li a{
+    text-decoration: none;
+    color: #333333;
+    margin: 0 48px;
+}
+
+/* .logoo{
+    padding-right: 4px;
+} */
+/*
+nav ul {
+    width: 100%;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.logIn{
+    width: 82px;
+    height: 40px;
+    padding: 10px 20px;
+    background-color: #2F80ED;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    position: absolute;
+    top: 22px;
+    right: 180px;
+
+    
+}
+
+
+.search{
+    width: 134px;
+    height: 44px;
+    border-radius: 6px;
+    border: none;
+    background-color: #2F80ED;
+    color: white;
+    padding: 12px 18px;
+} */
